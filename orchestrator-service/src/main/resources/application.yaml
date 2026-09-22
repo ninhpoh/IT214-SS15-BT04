@@ -1,0 +1,13 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: orchestrator-service
+
+# Service URLs
+service:
+  payment:
+    url: http://localhost:8081
+  concert:
+    url: http://localhost:8082
