@@ -1,4 +1,4 @@
-# 🎵 Concert Orchestrator Saga với State Machine
+# Concert Orchestrator Saga với State Machine
 
 ## Mục tiêu
 
